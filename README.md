@@ -1,5 +1,4 @@
-'''Created on Mon Nov 13 20:40:33 2023
-@author: Gabriel Sugayama (RM 99265) Arthur Petrin (RM 98735)'''
+# '''Created on Mon Nov 13 20:40:33 2023 @author: Gabriel Sugayama (RM 99265) Arthur Petrin (RM 98735)'''
 
 # Nosso projeto visa a implementação de um sistema de gestão hospitalar, para o administrador poder adicionar paciente e seu estado de saúde, atualizá-lo e deletado quando o tratamento surtir efeito
 
